@@ -1,8 +1,0 @@
-[user]
-    name = lexor64
-    mail = zhuravlev.alex64@gmail.com
-[core]
-    excludesfile = ~/.gitignore
-    editor = vim
-[color]
-    ui = true
